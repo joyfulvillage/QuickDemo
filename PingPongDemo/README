@@ -1,0 +1,2 @@
+A very simple PingPong demo to introduce Scala/Akka
+Simply open project in IDE (or sbt) and run
